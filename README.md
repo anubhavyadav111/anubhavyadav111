@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Amazone Clone](https://github.com/anubhavyadav111/amazon_Flutter_clone)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Vakyadarpan(Text-to-Video)**
 
