@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Yadav</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 - 🔭 I’m currently working on [Amazone Clone](https://github.com/anubhavyadav111/amazon_Flutter_clone)
 
