@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Anubhavyadav111">
-    <img src="https://raw.githubusercontent.com/Anubhavyadav111/Anubhavyadav111/main/assets/banner.png" alt="Anubhav Yaduvanshi" />
+    <img src="https://raw.githubusercontent.com/Anubhavyadav111/Anubhavyadav111/main/MYNAME2.PNG" alt="Anubhav Yaduvanshi" />
   </a>
 </p>
 
