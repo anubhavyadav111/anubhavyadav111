@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  Hey there! 👋 I'm Anubhav Yaduvanshi, a passionate Full-Stack Developer with a knack for creating efficient and scalable web applications. I'm enthusiastic about exploring new technologies and contributing to projects that make a positive impact.
+  Hey there! 👋 I'm Anubhav Yadav, 4 year undergrad at Amity University, Noida in the Computer Science & Engineering department. I am currently diving deep into Competitive Programmming, Web development and Deep Learning.It's my passion to work on AI projects and gain practical experience in order to expand my knowledge of learning the art of algorithmic excellence and to develop products and services that create a positive impact on the society, simultaneously striding to take tech advancement to the next level.
 </h3>
 
 <p align="center">
@@ -35,29 +35,9 @@
 
 ---
 
-<h2 align="center">🚀 Projects 🚀</h2>
 
-- 🌐 **[E-Commerce Web App](#)**  
-  Developed a full-stack e-commerce web application using **React** and **Node.js** that provides a seamless shopping experience with secure payment integration.
 
-- 📱 **[Fitness Tracker Mobile App](#)**  
-  Created a mobile app with **Flutter** that tracks fitness activities, monitors health metrics, and provides personalized workout plans.
 
-- 🛠️ **[Data Analysis Tool](#)**  
-  Built a data analysis tool using **Python** and **Pandas** that helps businesses make data-driven decisions by visualizing key metrics.
-
-*(Replace the `#` in the project links with the actual URLs to your projects.)*
-
----
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavyadav111&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhavyadav111&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
@@ -67,14 +47,7 @@
 
 ---
 
-<h2 align="center">🌐 Let's Connect 🌐</h2>
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <!-- Add other platforms like Twitter, Portfolio Website if available -->
-</p>
 
 ---
 
