@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  Hey there! 👋 I'm Anubhav Yadav, 4 year undergrad at Amity University, Noida in the Computer Science & Engineering department. I am currently diving deep into Competitive Programmming, Web development and Deep Learning.It's my passion to work on AI projects and gain practical experience in order to expand my knowledge of learning the art of algorithmic excellence and to develop products and services that create a positive impact on the society, simultaneously striding to take tech advancement to the next level.
+  Hey there! 👋 I'm Anubhav Yadav, 4 year undergrad at Amity University, Noida in the Computer Science & Engineering. I am currently diving deep into Competitive Programmming, Web development and Deep Learning.It's my passion to work on AI projects and gain practical experience in order to expand my knowledge of learning the art of algorithmic excellence and to develop products and services that create a positive impact on the society, simultaneously striding to take tech advancement to the next level.
 </h3>
 
 <p align="center">
@@ -29,12 +29,20 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
+<h2 align="center">⚒️ Development ⚒️</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode" />
 </div>
 
 ---
-
+<h2 align="center">⚒️Deep Learning⚒️</h2>
+<div align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ai,linux,python,mysql,pytorch,tensorflow,anaconda,langchain,pinecone,chatgpt" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=prompts,bots,kaggle,matplotlib,ollama,pandas,opencv,scipy,seaborn,sklearn,streamlit" />
+  </a>
+</div>
 
 
 
@@ -45,9 +53,5 @@
   <img src="https://raw.githubusercontent.com/Anubhavyadav111/Anubhavyadav111/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
----
 
-
-
----
 
