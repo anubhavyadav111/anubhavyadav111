@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/Anubhavyadav111/Anubhavyadav111/main/utils/MYNAME2.png" alt="Anubhav Yadav" />
   </a>
 </p>
-main/MYNAME2.png
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
