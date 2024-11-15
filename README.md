@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/Anubhavyadav111">
-    <img src="https://raw.githubusercontent.com/Anubhavyadav111/Anubhavyadav111/main/utils/MYNAME2.png**" alt="Anubhav Yadav" />
+    <img src="https://raw.githubusercontent.com/Anubhavyadav111/anubhavyadav111/main/utils/MYNAME2.png" alt="Anubhav Yadav" />
   </a>
 </p>
+
 
 
 <p align="center">
